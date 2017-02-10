@@ -1,0 +1,13 @@
+HTML nedir?
+HTML(Hypertext Markup Language) website qurmaq istifade olunan bir dildir. Website metnlerini yazmaq ucun istifade olunur. HTML <tag>-ler istifade ederek yazilir. HTML-in strukturunu agaca oxsada bilerik. Acdigimiz tag-leri baglamaliyiq (mes. <i></i>). HTML-in esas meqsedi tag-ler icinde yazilan melumatlari browser-da eks etdirmekdir. HTML vasitesile text, shekil, video kimi obyektleri website-a yerlesdire bilerik.
+HTML5
+HTML5 esas meqsedi yeni browser-ler terefinden teklif olunan yeni "parametrleri" qarsilamaq ve desteklemekdir. Syntax-da olan error-lari ve diger xetalari aradan qaldirmaq da HTML5-in meqsedidir. HTML ve XML syntax-i ile yazilan tek bir forma yaratmaq meqsedlerden biridir.
+HTML5 ve digerleri arasindaki ferqler:
+1. Diger versiyalaradan daha detalli ishleme modeli ile ferqlenir.
+2. Client-da data saxlamaq ve ya offline ishlemek ucun API-ler teklif edir.(Web Storage,WebSQL,Indexed DB, File system API)
+3. HTML5 komekci plug-inlere ehtiyac duymadan multimediya ve qrafikleri ishe salir. (Flash, PDF reader ve s.)
+4. HTML5-de JS Geolocation API ile location mueyyen oluna biler, yeni istifadeci oldugu yeri paylasa biler.
+5. HTML ve HTML4-u destekleyir.
+6. HTML5-in yeni xususuyyetlri HTML,CSS,DOM ve JS ustune qurulub.
+7. Canvas elementinin sahibdir.
+8. Local offline storage ucun daha yaxsi destek teklif edir.
